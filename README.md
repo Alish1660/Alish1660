@@ -3,8 +3,8 @@ Alish1660/Alish1660 is a ✨ special ✨ repository because its `README.md` (thi
 --->
 
 <div align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="banner" style="width: 100%;"/>
-  
+  <img src="your-banner-image-url-here" alt="creative-banner" style="width: 100%;" />
+
   <h1>Hi 👋, I'm Alisher Rustamov</h1>
   <h3>A passionate frontend developer from Uzbekistan</h3>
   
@@ -20,6 +20,7 @@ Alish1660/Alish1660 is a ✨ special ✨ repository because its `README.md` (thi
     <img src="https://komarev.com/ghpvc/?username=alish1660&label=Profile%20views&color=0e75b6&style=flat" alt="alish1660" />
   </p>
 </div>
+
 
 ---
 
