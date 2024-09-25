@@ -1,13 +1,13 @@
-
-
 <!---
 Alish1660/Alish1660 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img align="right" alt="coding" width="800" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="banner" style="width:100%;"/>
+
 <h1 align="center">Hi 👋, I'm Alisher Rustamov</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alish1660&label=Profile%20views&color=0e75b6&style=flat" alt="alish1660" /> </p>
 
@@ -34,4 +34,3 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alish1660&show_icons=true&locale=en" alt="alish1660" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alish1660&" alt="alish1660" /></p>
-)
